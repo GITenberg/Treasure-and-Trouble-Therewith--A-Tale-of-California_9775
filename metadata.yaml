@@ -1,0 +1,25 @@
+_repo: Treasure-and-Trouble-Therewith--A-Tale-of-California_9775
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bonner, Geraldine
+    birthdate: 1870
+    deathdate: 1930
+    gutenberg_agent_id: '3132'
+    url: http://www.gutenberg.org/2009/agents/3132
+    wikipedia: http://en.wikipedia.org/wiki/Geraldine_Bonner
+description: Cover -- Contents.
+gutenberg_issued: '2006-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9775'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'California -- Fiction'
+- GITenberg
+title: 'Treasure and Trouble Therewith: A Tale of California'
+url: http://www.gutenberg.org/ebooks/9775
